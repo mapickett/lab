@@ -1,10 +1,10 @@
 # Ansible Inventory Report
+Generated at Mon Jan 27 15:04:14 PST 2020
 
 ## IOS Device Information
 
 | Device | Model | Serial Number | Version |
 |--------|-------|---------------|---------|
-| labcs1-wrtr1 | ASR1002-X | FOX1819G8WF | 16.06.05 |
 | labcs1-wrtr2 | ASR1002-X | SSI163907TS | 16.06.05 |
 | labdc1-dswt1 | WS-C3850-48T | FOC1747X16C | 03.02.03.SE |
 | labdc1-wrtr1 | ASR1002-X | SSI1639079S | 16.06.05 |
@@ -30,7 +30,6 @@
 | labcs1-aswt1 | ICX7450-48-HPOE | CYR3311P0BC | 08.0.90cT211 |
 | labcs1-cswt1 | ICX7750-48F | CRH3352L005 | 08.0.90cT203 |
 | labcs1-cswt2 | ICX7750-48F | CRH3352L020 | 08.0.90cT203 |
-| labcs1-dswt1 | ICX7750-48F | CRH3305L00F | 08.0.90cT203 |
 | labcs1-dswt2 | ICX7750-48F | CRH3305L015 | 08.0.90cT203 |
 | labcs1-saswt1 | ICX7450-48-HPOE | CYR3311P0JH | 08.0.30sT211 |
 | labcs1-sdswt1 | ICX7750-48F | CRH3305L0K1 | 08.0.30sT203 |
