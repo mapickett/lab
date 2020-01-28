@@ -1,9 +1,9 @@
 # Ansible Inventory Report
-Generated Tue Jan 28 15:02:23 PST 2020
+Generated Tue Jan 28 15:13:42 PST 2020
 
 ## Device Information
 
-| Device | Model | Serial Number | Version |
+| Device | Model | Serial Number | SW Version |
 |--------|-------|---------------|---------|
 | labcs1-aswt1 | ICX7450-48-HPOE | CYR3311P0BC | 08.0.90cT211 |
 | labcs1-cswt1 | ICX7750-48F | CRH3352L005 | 08.0.90cT203 |
