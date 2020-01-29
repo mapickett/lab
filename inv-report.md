@@ -2,9 +2,10 @@
 [standard]: https://github.com/mapickett/lab/blob/master/standard.png
 [acceptable]: https://github.com/mapickett/lab/blob/master/acceptable.png
 [nonstandard]: https://github.com/mapickett/lab/blob/master/nonstandard.png
+[unsupported]: https://github.com/mapickett/lab/blob/master/unsupported.png
 
 # Ansible Inventory Report
-Generated Tue Jan 28 17:46:55 PST 2020
+Generated Tue Jan 28 17:51:18 PST 2020
 
 ## Device Information
 
@@ -23,7 +24,7 @@ Generated Tue Jan 28 17:46:55 PST 2020
 | labdc1-aswt2b | N9K-C9372TX-E | FDO20210V35 | 7.0(3)I7(4) | ![alt text][standard]
 | labdc1-cswt1 | N9K-C9272Q | SAL2003WZE0 | 7.0(3)I7(4) | ![alt text][standard]
 | labdc1-cswt2 | N9K-C9272Q | SAL1951VJEU | 7.0(3)I7(4) | ![alt text][standard]
-| labdc1-dswt1 | WS-C3850-48T | FOC1747X16C | 03.02.03.SE | unsupported HW
+| labdc1-dswt1 | WS-C3850-48T | FOC1747X16C | 03.02.03.SE | ![alt text][unsupported]
 | labdc1-wrtr1 | ASR1002-X | SSI1639079S | 16.06.05 | ![alt text][standard]
 | labdc1-wrtr2 | ASR1002-X | SSI163907V0 | 16.06.05 | ![alt text][standard]
 | labms1-aswt1 | ICX7450-48-HPOE | CYR3345L01R | 08.0.90cT211 | ![alt text][standard]
