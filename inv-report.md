@@ -1,16 +1,19 @@
+s {text-decoration:none; font-weight: bold; color: yellow}
+em { font-style: normal; font-weight: bold; color: red}
+
 # Ansible Inventory Report
-Generated Tue Jan 28 17:16:24 PST 2020
+Generated Tue Jan 28 17:25:14 PST 2020
 
 ## Device Information
 
 | Device | Model | Serial Number | SW Version | SW Compliance |
 |--------|-------|---------------|------------|---------------|
 | labcs1-aswt1 | ICX7450-48-HPOE | CYR3311P0BC | 08.0.90cT211 | standard
-| labcs1-cswt1 | ICX7750-48F | CRH3352L005 | 08.0.90cT203 | <span style="color:blue">some *blue* text</span>
-| labcs1-cswt2 | ICX7750-48F | CRH3352L020 | 08.0.90cT203 | <span style="color:blue">some *blue* text</span>
-| labcs1-dswt2 | ICX7750-48F | CRH3305L015 | 08.0.90cT203 | <span style="color:blue">some *blue* text</span>
-| labcs1-saswt1 | ICX7450-48-HPOE | CYR3311P0JH | 08.0.30sT211 | <span style="color:blue">some *blue* text</span>
-| labcs1-sdswt1 | ICX7750-48F | CRH3305L0K1 | 08.0.30sT203 | non-standard
+| labcs1-cswt1 | ICX7750-48F | CRH3352L005 | 08.0.90cT203 | ~~acceptable~~
+| labcs1-cswt2 | ICX7750-48F | CRH3352L020 | 08.0.90cT203 | ~~acceptable~~
+| labcs1-dswt2 | ICX7750-48F | CRH3305L015 | 08.0.90cT203 | ~~acceptable~~
+| labcs1-saswt1 | ICX7450-48-HPOE | CYR3311P0JH | 08.0.30sT211 | ~~acceptable~~
+| labcs1-sdswt1 | ICX7750-48F | CRH3305L0K1 | 08.0.30sT203 | _non-standard_
 | labcs1-wrtr2 | ASR1002-X | SSI163907TS | 16.06.05 | standard
 | labdc1-aswt1a | N9K-C9372TX-E | FDO20210V36 | 7.0(3)I7(4) | standard
 | labdc1-aswt1b | N9K-C9372TX-E | FDO20210V2U | 7.0(3)I7(4) | standard
