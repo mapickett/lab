@@ -1,5 +1,6 @@
-s {text-decoration:none; font-weight: bold; color: yellow}
-em { font-style: normal; font-weight: bold; color: red}
+// resets
+s {text-decoration:none; font-weight: bold; color: yellow} //strike-through
+em { font-style: normal; font-weight: bold; color: red} //italic emphasis
 
 # Ansible Inventory Report
 Generated Tue Jan 28 17:25:14 PST 2020
