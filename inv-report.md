@@ -1,11 +1,11 @@
 
-[standard]: https://github.com/mapickett/lab/blob/master/standard.png
-[acceptable]: https://github.com/mapickett/lab/blob/master/acceptable.png
-[nonstandard]: https://github.com/mapickett/lab/blob/master/nonstandard2.png
-[unsupported]: https://github.com/mapickett/lab/blob/master/unsupported.png
+[standard]: https://github.com/mapickett/lab/blob/master/standard.png "Standard"
+[acceptable]: https://github.com/mapickett/lab/blob/master/acceptable.png "Acceptable"
+[nonstandard]: https://github.com/mapickett/lab/blob/master/nonstandard2.png "Non-Standard"
+[unsupported]: https://github.com/mapickett/lab/blob/master/unsupported.png "Unsupported"
 
 # Ansible Inventory Report
-Generated Tue Jan 28 17:59:41 PST 2020
+Generated Tue Jan 28 18:02:18 PST 2020
 
 ## Device Information
 
