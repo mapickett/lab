@@ -4,18 +4,18 @@
 [nonstandard]: https://github.com/mapickett/lab/blob/master/nonstandard.png
 
 # Ansible Inventory Report
-Generated Tue Jan 28 17:43:21 PST 2020
+Generated Tue Jan 28 17:46:55 PST 2020
 
 ## Device Information
 
 | Device | Model | Serial Number | SW Version | SW Compliance |
 |--------|-------|---------------|------------|---------------|
 | labcs1-aswt1 | ICX7450-48-HPOE | CYR3311P0BC | 08.0.90cT211 | ![alt text][standard]
-| labcs1-cswt1 | ICX7750-48F | CRH3352L005 | 08.0.90cT203 | acceptable
-| labcs1-cswt2 | ICX7750-48F | CRH3352L020 | 08.0.90cT203 | acceptable
-| labcs1-dswt2 | ICX7750-48F | CRH3305L015 | 08.0.90cT203 | acceptable
-| labcs1-saswt1 | ICX7450-48-HPOE | CYR3311P0JH | 08.0.30sT211 | acceptable
-| labcs1-sdswt1 | ICX7750-48F | CRH3305L0K1 | 08.0.30sT203 | non-standard
+| labcs1-cswt1 | ICX7750-48F | CRH3352L005 | 08.0.90cT203 | ![alt text][acceptable]
+| labcs1-cswt2 | ICX7750-48F | CRH3352L020 | 08.0.90cT203 | ![alt text][acceptable]
+| labcs1-dswt2 | ICX7750-48F | CRH3305L015 | 08.0.90cT203 | ![alt text][acceptable]
+| labcs1-saswt1 | ICX7450-48-HPOE | CYR3311P0JH | 08.0.30sT211 | ![alt text][acceptable]
+| labcs1-sdswt1 | ICX7750-48F | CRH3305L0K1 | 08.0.30sT203 | ![alt text][nonstandard]
 | labcs1-wrtr2 | ASR1002-X | SSI163907TS | 16.06.05 | ![alt text][standard]
 | labdc1-aswt1a | N9K-C9372TX-E | FDO20210V36 | 7.0(3)I7(4) | ![alt text][standard]
 | labdc1-aswt1b | N9K-C9372TX-E | FDO20210V2U | 7.0(3)I7(4) | ![alt text][standard]
